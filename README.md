@@ -35,7 +35,7 @@ Documentation: Detailed explanations of the cleaning steps, along with comments 
 To get started with this repository, ensure you have Python and Pandas installed on your system. You can run the data cleaning script with the following command:
 
 
-1- Copy code python data_cleaning_script.py  
+1- Copy code: python data_cleaning_script.py  
 
 2- Load Data: Customer Call List.xlsx
 
